@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1686323171 source:e:\github\educacion\utn\laboratorio1-20231c-m\clase 2023-06-09\viajes\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1686323079 e:\github\educacion\utn\laboratorio1-20231c-m\clase 2023-06-09\viajes\funciones.h
+
+1686321623 source:e:\github\educacion\utn\laboratorio1-20231c-m\clase 2023-06-09\viajes\main.cpp
+	<iostream>
+	"funciones.h"
+
